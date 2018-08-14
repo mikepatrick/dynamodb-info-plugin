@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Include DynamoDB tables in sls info command.",
   "main": "index.js",
-  "repository": "https://github.com/mikepatrick/dynamodb-alarms-plugin",
+  "repository": "https://github.com/mikepatrick/dynamodb-info-plugin",
   "author": "mikepatrick",
   "license": "MIT",
   "scripts": {
